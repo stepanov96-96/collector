@@ -15,11 +15,11 @@ D:/Game/FoodСollector/FoodСollector2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53684
+52961
 Successfully changed project path to: D:/Game/FoodСollector/FoodСollector2
 D:/Game/FoodСollector/FoodСollector2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 47.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path D:/unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'D:/unity/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001169 seconds.
+Registered in 0.001780 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 47.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.993 seconds
+- Completed reload, in  2.187 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003402 seconds.
+Registered in 0.004842 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.043 seconds
+- Completed reload, in  1.151 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1486 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.7 MB.
-System memory in use after: 68.8 MB.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.9 MB.
+System memory in use after: 68.9 MB.
 
-Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1907.
-Total: 2.772300 ms (FindLiveObjects: 0.234300 ms CreateObjectMapping: 0.072600 ms MarkObjects: 2.295300 ms  DeleteObjects: 0.168300 ms)
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1911.
+Total: 1.963500 ms (FindLiveObjects: 0.145700 ms CreateObjectMapping: 0.051200 ms MarkObjects: 1.702300 ms  DeleteObjects: 0.063400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -79,122 +79,1567 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts
-  artifactKey: Guid(6588c4b27fe8f684ea09dd735487ce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(6588c4b27fe8f684ea09dd735487ce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510ad67df48b5a9aac0be6d5db8a6bf5') in 0.011924 seconds 
-  Import took 0.052282 seconds .
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_02.fbx
+  artifactKey: Guid(ddd7f2f1457880e4f9228d90530f6e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_02.fbx using Guid(ddd7f2f1457880e4f9228d90530f6e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66d6427bfa9932294d9c6b546b00103') in 0.284126 seconds 
+  Import took 0.326658 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.176975 seconds.
-  path: Assets/Scripts/PlayerScripts
-  artifactKey: Guid(0497295e3623e304cba194fba1d3e71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerScripts using Guid(0497295e3623e304cba194fba1d3e71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404ab450c83e0c7e426c3cf05e9b5b43') in 0.008778 seconds 
-  Import took 0.021910 seconds .
+  Time since last request: 0.000412 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_03.fbx
+  artifactKey: Guid(6306b8d741707f7409285036dd3c8932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_03.fbx using Guid(6306b8d741707f7409285036dd3c8932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60427cc6aeb6ec6e6832f1e461fb0d4') in 0.060179 seconds 
+  Import took 0.063331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Fastfood_01.fbx
+  artifactKey: Guid(e05a7e9447269cd4ba4a68968bf0fab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Fastfood_01.fbx using Guid(e05a7e9447269cd4ba4a68968bf0fab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec9dff63a803c4e179ec8f79de44a61') in 0.047190 seconds 
+  Import took 0.050725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_02.fbx
+  artifactKey: Guid(6051ed9b6ee9b5d46bbd3b1663f02a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_02.fbx using Guid(6051ed9b6ee9b5d46bbd3b1663f02a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7273fcd7acfe80cc145d49ce5daab47f') in 0.050037 seconds 
+  Import took 0.053501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Vending_Machine.fbx
+  artifactKey: Guid(6e237ca1e7c89ae4aa545b3db57f6293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Vending_Machine.fbx using Guid(6e237ca1e7c89ae4aa545b3db57f6293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624d7a6e290e0cd828c9954f4226091a') in 0.050449 seconds 
+  Import took 0.053574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Spatula.fbx
+  artifactKey: Guid(88890caf11c9d1d4ab70f54241bc976a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Spatula.fbx using Guid(88890caf11c9d1d4ab70f54241bc976a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b0a4cfbfc560450316dbd3a44323ff') in 0.043617 seconds 
+  Import took 0.046643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SodaDispencer_01.fbx
+  artifactKey: Guid(71651ccd2d824f24f9fa5f6fd9d46318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SodaDispencer_01.fbx using Guid(71651ccd2d824f24f9fa5f6fd9d46318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ba9312ccc46c244259492d00e42a3a') in 0.034899 seconds 
+  Import took 0.037748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_04.fbx
+  artifactKey: Guid(7539f70b341eaa24d9834acb4fc3d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_04.fbx using Guid(7539f70b341eaa24d9834acb4fc3d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a47854711f22455ee4b77e07a15e92') in 0.050475 seconds 
+  Import took 0.071947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Alcohol_01.fbx
+  artifactKey: Guid(491cbb5f30a001a469f994c0187dc5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Alcohol_01.fbx using Guid(491cbb5f30a001a469f994c0187dc5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8298009df0cbabe3538ac6cab38c65') in 0.016028 seconds 
+  Import took 0.028243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stool.fbx
+  artifactKey: Guid(4aab0d4a86d78f941bf4285a324b4bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stool.fbx using Guid(4aab0d4a86d78f941bf4285a324b4bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1b7c9237450ffa444c05412080e5ff') in 0.047481 seconds 
+  Import took 0.050930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Meats_01.fbx
+  artifactKey: Guid(6abadc986b4f36a4dbc1f62c888f677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Meats_01.fbx using Guid(6abadc986b4f36a4dbc1f62c888f677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c633c76cf9be1c30b912e5b3b263bc') in 0.015781 seconds 
+  Import took 0.018839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_03.fbx
+  artifactKey: Guid(23f4ce4726cf746469c05650ec936baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_03.fbx using Guid(23f4ce4726cf746469c05650ec936baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e23649f42fe54e22e4c345c95078e3') in 0.044336 seconds 
+  Import took 0.047536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_06.fbx
+  artifactKey: Guid(b881496e26347fe48b7f21ad2e6933d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_06.fbx using Guid(b881496e26347fe48b7f21ad2e6933d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc264d1a957f3f8304961fa3225085d') in 0.060880 seconds 
+  Import took 0.063835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Menu.fbx
+  artifactKey: Guid(c7671b76f6bea79438567656ab4d03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Menu.fbx using Guid(c7671b76f6bea79438567656ab4d03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470a9e465cd2772a38d0dd309c60ddc9') in 0.049161 seconds 
+  Import took 0.051794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_01.fbx
+  artifactKey: Guid(e55584dd0921c94408db9435104e528e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_01.fbx using Guid(e55584dd0921c94408db9435104e528e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc59bdd98848fe6e2b42130b7e9048cf') in 0.049721 seconds 
+  Import took 0.052546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Table_02.fbx
+  artifactKey: Guid(00a1188b58f5b53469043a8f47fcf868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Table_02.fbx using Guid(00a1188b58f5b53469043a8f47fcf868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8c4d141681909067d91e3aa7c92ad8') in 0.056149 seconds 
+  Import took 0.059191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo.fbx
+  artifactKey: Guid(38cec963655de354089da1ba4ccbeaf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo.fbx using Guid(38cec963655de354089da1ba4ccbeaf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6e10f26ceeb441bfaaf072eed241b2') in 0.038240 seconds 
+  Import took 0.040737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sunglasses_01.fbx
+  artifactKey: Guid(5f33b3dabee794f4da8d64aa79221778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sunglasses_01.fbx using Guid(5f33b3dabee794f4da8d64aa79221778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cee89c421a62fc5e4b402c9f6dc6e5b') in 0.076467 seconds 
+  Import took 0.096246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_08.fbx
+  artifactKey: Guid(97a63d7aaa623bd44a5fa0ad6431e4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_08.fbx using Guid(97a63d7aaa623bd44a5fa0ad6431e4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5f253b92812d3416e6aa4c5aeeb82c') in 0.074730 seconds 
+  Import took 0.086317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Dog_01.fbx
+  artifactKey: Guid(494a4fbd49fd0ab4c88202b5a36e88e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Dog_01.fbx using Guid(494a4fbd49fd0ab4c88202b5a36e88e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd26bdcef38c829062d9eb563634ade') in 0.045882 seconds 
+  Import took 0.048538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_01.fbx
+  artifactKey: Guid(eb3bfcf2f89aa0441aa40def01d43a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BurgerAd_01.fbx using Guid(eb3bfcf2f89aa0441aa40def01d43a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e605141fb503f5bf92bc7c5f77d305') in 0.049822 seconds 
+  Import took 0.052520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Bakery_01.fbx
+  artifactKey: Guid(43b1d4340c1db1943a862360c4d3e89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Bakery_01.fbx using Guid(43b1d4340c1db1943a862360c4d3e89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cebf736c55cfeb05adebfcfe70318da') in 0.071197 seconds 
+  Import took 0.104407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Turtle_01.fbx
+  artifactKey: Guid(63d9cf02704774f449ed1e178c49b2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Turtle_01.fbx using Guid(63d9cf02704774f449ed1e178c49b2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4049b6fc0ae85bda6a24cbd7aeb5c185') in 0.033308 seconds 
+  Import took 0.036340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WaterSpill_01.fbx
+  artifactKey: Guid(b88fbafd0b5f1db40b426e697a4736de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WaterSpill_01.fbx using Guid(b88fbafd0b5f1db40b426e697a4736de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a237b8f7547821a980b9bbb7be9ea75') in 0.066875 seconds 
+  Import took 0.070320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Frozen_01.fbx
+  artifactKey: Guid(0fcba8d5de976f640b907c93e0a3612f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Frozen_01.fbx using Guid(0fcba8d5de976f640b907c93e0a3612f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138eee8dc63e4996a674c5b9e517068c') in 0.016493 seconds 
+  Import took 0.019958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_05.fbx
+  artifactKey: Guid(04fdb5771eba609498f45d57095299da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_05.fbx using Guid(04fdb5771eba609498f45d57095299da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c969c6a66e9ce00f254f0be7845a5f16') in 0.089840 seconds 
+  Import took 0.094290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Clothing_01.fbx
+  artifactKey: Guid(bdea47b3a1735374cae5ee95ded99fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Clothing_01.fbx using Guid(bdea47b3a1735374cae5ee95ded99fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f64eb9f3f539ccfc34d8c1b6c6846fa') in 0.054637 seconds 
+  Import took 0.058007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SlushieMachine_01.fbx
+  artifactKey: Guid(b122a5d7b1883c94a933dccd92baeeef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SlushieMachine_01.fbx using Guid(b122a5d7b1883c94a933dccd92baeeef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50176d2fac51c7073c6037e27a8e5d6b') in 0.048586 seconds 
+  Import took 0.051333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Coffee_01.fbx
+  artifactKey: Guid(3a0c2d8d06d94f74c9c3d03a63349bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Coffee_01.fbx using Guid(3a0c2d8d06d94f74c9c3d03a63349bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5b613479f306de708730d488aaa6db') in 0.049453 seconds 
+  Import took 0.052302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Watches_02.fbx
+  artifactKey: Guid(046e5d088893b9d4cab7c24feb637cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Watches_02.fbx using Guid(046e5d088893b9d4cab7c24feb637cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a043ac0f854029f0a204a1439525d98c') in 0.048187 seconds 
+  Import took 0.051002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Jewelry_01.fbx
+  artifactKey: Guid(541a344f44ac3c44a978a2b3cc178b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Jewelry_01.fbx using Guid(541a344f44ac3c44a978a2b3cc178b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba67bdd72845840ef4db4ab1f84ab765') in 0.057287 seconds 
+  Import took 0.060250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SignCaution_01.fbx
+  artifactKey: Guid(2beff1732f52e294c88592fe12db3463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SignCaution_01.fbx using Guid(2beff1732f52e294c88592fe12db3463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d66ea6e0e2732130a1c72508c11e98') in 0.040930 seconds 
+  Import took 0.055113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BuyNow_01.fbx
+  artifactKey: Guid(39010d81aab55d441abbb0377ea914d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_BuyNow_01.fbx using Guid(39010d81aab55d441abbb0377ea914d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389e9a1de9dc50fbbae144ee7f709087') in 0.015038 seconds 
+  Import took 0.017601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Table_01.fbx
+  artifactKey: Guid(24ccc1b581b138a44902482be61726fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Table_01.fbx using Guid(24ccc1b581b138a44902482be61726fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff15b5b4cb2af551a38e2181d82a49ce') in 0.077452 seconds 
+  Import took 0.080328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Chick_01.fbx
+  artifactKey: Guid(7ac3bab508b192441ad9b80bed934f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Chick_01.fbx using Guid(7ac3bab508b192441ad9b80bed934f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5474a84c67fac6da86f5b3d6b9758318') in 0.041110 seconds 
+  Import took 0.045154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_TrashBins_01.fbx
+  artifactKey: Guid(01d27ab09ddf99e4a83731c120824e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_TrashBins_01.fbx using Guid(01d27ab09ddf99e4a83731c120824e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7bb445fba91e3bb83441d6866ff17c6') in 0.058387 seconds 
+  Import took 0.061164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Groceries_01.fbx
+  artifactKey: Guid(031b3030c5dfa1f41808eddce80f8b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Groceries_01.fbx using Guid(031b3030c5dfa1f41808eddce80f8b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2971f7143b5941eaf666f15869a738') in 0.023021 seconds 
+  Import took 0.026428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Welcome_01.fbx
+  artifactKey: Guid(c3694c2dc28d654499a8dd002723dfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Welcome_01.fbx using Guid(c3694c2dc28d654499a8dd002723dfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f05a9ee64713c7005d5790ae1dcc251') in 0.054869 seconds 
+  Import took 0.057612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo_02.fbx
+  artifactKey: Guid(a7b0075ad2389f44981dc54df96ccffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo_02.fbx using Guid(a7b0075ad2389f44981dc54df96ccffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f80f6b6fbd3a99f5b5e7bdd6a8be2e9') in 0.079613 seconds 
+  Import took 0.082494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Lamb_01.fbx
+  artifactKey: Guid(3598e6b1a2f58ad4dbaceb69547c952c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Lamb_01.fbx using Guid(3598e6b1a2f58ad4dbaceb69547c952c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b60a9f0c6d2761b35dbebad3e3bbaf') in 0.056068 seconds 
+  Import took 0.059082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_HalfPrice_01.fbx
+  artifactKey: Guid(6287080da5efb4342b7b331c8fcb7064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_HalfPrice_01.fbx using Guid(6287080da5efb4342b7b331c8fcb7064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94d2429543fa0e48c7230268f050288') in 0.013909 seconds 
+  Import took 0.017102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_04.fbx
+  artifactKey: Guid(58678707259b8e644b5dd3df3084209d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_04.fbx using Guid(58678707259b8e644b5dd3df3084209d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b69c6dbfc95a7e77629e8433b192a4') in 0.016226 seconds 
+  Import took 0.019302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Organic_01.fbx
+  artifactKey: Guid(763affb253643264096dc8dc601349b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Organic_01.fbx using Guid(763affb253643264096dc8dc601349b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5bbf0c8f04ab0f996dc4778307e7831') in 0.024179 seconds 
+  Import took 0.027474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Music_01.fbx
+  artifactKey: Guid(64ef7ef1257919248bb485ceb925db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Music_01.fbx using Guid(64ef7ef1257919248bb485ceb925db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2e47c8178a667191eba0ba419f8faf') in 0.051739 seconds 
+  Import took 0.055254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Watches_01.fbx
+  artifactKey: Guid(e4552b613bd49b44c8b498bf7455b464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Watches_01.fbx using Guid(e4552b613bd49b44c8b498bf7455b464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b0cf6bccdd15af155c2f68c49697df') in 0.049404 seconds 
+  Import took 0.052346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Cat_01.fbx
+  artifactKey: Guid(5518921b8ec0d8e4987b12e3a7b65710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Cat_01.fbx using Guid(5518921b8ec0d8e4987b12e3a7b65710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2945644e3bfa51afacc744393e1aa0c9') in 0.040359 seconds 
+  Import took 0.043072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Pig_01.fbx
+  artifactKey: Guid(b7767a98f6295d34eb53e8d2f6209662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Pig_01.fbx using Guid(b7767a98f6295d34eb53e8d2f6209662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4624084cc46f78f7ef11155a989a02f') in 0.074896 seconds 
+  Import took 0.077667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_07.fbx
+  artifactKey: Guid(08034b4c795a08d4aa0cc89a0422dc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_07.fbx using Guid(08034b4c795a08d4aa0cc89a0422dc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3344653f0d51b962d0e12b45af5ff8a') in 0.053216 seconds 
+  Import took 0.056626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_General_01.fbx
+  artifactKey: Guid(0ea870baf9b31054abe83d84fb7a1c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_General_01.fbx using Guid(0ea870baf9b31054abe83d84fb7a1c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a913b5dd7a1ce240f57cc927e15c8a25') in 0.044446 seconds 
+  Import took 0.047872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_02.fbx
+  artifactKey: Guid(ba71d007e9221cd4496732ed4c2b59cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_WallDeco_02.fbx using Guid(ba71d007e9221cd4496732ed4c2b59cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a9da8aa772a32245ce3175b9a156e7') in 0.038288 seconds 
+  Import took 0.040915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Bear_01.fbx
+  artifactKey: Guid(57d44b0e873668b408f525f5b55063bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Bear_01.fbx using Guid(57d44b0e873668b408f525f5b55063bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc5919373764ea37e99995a8d25dd00') in 0.072894 seconds 
+  Import took 0.076327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Arcade_01.fbx
+  artifactKey: Guid(087298a6ea83e8942a882bf140c9764c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Arcade_01.fbx using Guid(087298a6ea83e8942a882bf140c9764c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3307586ca818ff879065e0be9b96dc63') in 0.087855 seconds 
+  Import took 0.090471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo_03.fbx
+  artifactKey: Guid(f5f99e7249eee884682a06afeba910a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Stereo_03.fbx using Guid(f5f99e7249eee884682a06afeba910a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7658aaceb8304f7472f005c95d949e91') in 0.093456 seconds 
+  Import took 0.096051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_03.fbx
+  artifactKey: Guid(1a7a8c15bc20c5b428028504bdbe911f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_03.fbx using Guid(1a7a8c15bc20c5b428028504bdbe911f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20ea67b1ae0b7e03a5ef51a107332a7') in 0.063552 seconds 
+  Import took 0.066733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Sale_01.fbx
+  artifactKey: Guid(99a7054198b6822448c9e5fbf6ad8f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Sign_Sale_01.fbx using Guid(99a7054198b6822448c9e5fbf6ad8f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b97f07403309735ff8affc1fd856cbd') in 0.022636 seconds 
+  Import took 0.026149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_01.fbx
+  artifactKey: Guid(56c55f87d0cabc245a4f8262d69da0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoppingTrolley_01.fbx using Guid(56c55f87d0cabc245a4f8262d69da0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149f537e9bda0a4218a0f59997595c87') in 0.045668 seconds 
+  Import took 0.059692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Rabbit_01.fbx
+  artifactKey: Guid(5ec257a2150afe74e94edcc7edda28ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Toy_Rabbit_01.fbx using Guid(5ec257a2150afe74e94edcc7edda28ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afbbd122452ec8554bb646d71c8eb43') in 0.074807 seconds 
+  Import took 0.077507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.578063 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_04.fbx
+  artifactKey: Guid(33f0ef310e7013b488e17651694cfb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_04.fbx using Guid(33f0ef310e7013b488e17651694cfb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd4c78ad8273cfe892bcb16e0cc1b9c') in 0.084713 seconds 
+  Import took 0.106497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_05.fbx
+  artifactKey: Guid(95b01cf414fb1b34b9651479a6332ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_05.fbx using Guid(95b01cf414fb1b34b9651479a6332ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c634dbb3ca47d058637c47c15d624e7') in 0.035967 seconds 
+  Import took 0.038657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_02.fbx
+  artifactKey: Guid(0f3d862c552a6354eb81f624e134a334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_02.fbx using Guid(0f3d862c552a6354eb81f624e134a334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d8b0802f453842bb3d2395f813dbab') in 0.080522 seconds 
+  Import took 0.083338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_02.fbx
+  artifactKey: Guid(af885150ede6b6147a3610aa76f70ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_02.fbx using Guid(af885150ede6b6147a3610aa76f70ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0660f74808a4c92f56a2c26bc93f9f1') in 0.091177 seconds 
+  Import took 0.104033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_02.fbx
+  artifactKey: Guid(07bd48e6d42aa0e438066e5e7cb375d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_02.fbx using Guid(07bd48e6d42aa0e438066e5e7cb375d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46db3b0867d49a40891f901501d27c86') in 0.044652 seconds 
+  Import took 0.047203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_03.fbx
+  artifactKey: Guid(f43860145bc0ddb488a801fb884cd099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_03.fbx using Guid(f43860145bc0ddb488a801fb884cd099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f79d1573a042ee2c58858ccb508e84') in 0.054640 seconds 
+  Import took 0.057449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_19.fbx
+  artifactKey: Guid(7f104b0acb0691042930135c35c42083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_19.fbx using Guid(7f104b0acb0691042930135c35c42083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0030cf6afab11aad6973a1a7c0d253e1') in 0.095281 seconds 
+  Import took 0.097918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_01.fbx
+  artifactKey: Guid(350132a08aa90d74b83268216a45335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_01.fbx using Guid(350132a08aa90d74b83268216a45335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d9abae2c8a4c1652cbfddbbd99bf6e') in 0.057925 seconds 
+  Import took 0.060513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_02.fbx
+  artifactKey: Guid(b23d0199f7f3038408c792fb1082255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_02.fbx using Guid(b23d0199f7f3038408c792fb1082255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a290a237ff01e68c2ac7381eb5c75b39') in 0.083791 seconds 
+  Import took 0.086373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_21.fbx
+  artifactKey: Guid(83a89b5e19f2faf418a8380b19a4c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_21.fbx using Guid(83a89b5e19f2faf418a8380b19a4c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30489d66a5fd0f705d0a1c5e8264631b') in 0.077221 seconds 
+  Import took 0.079896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_08.fbx
+  artifactKey: Guid(577b7a165f04c4e4ea189cbff028aa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_08.fbx using Guid(577b7a165f04c4e4ea189cbff028aa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2674ead930411a7886dec962234a3eb9') in 0.058159 seconds 
+  Import took 0.060796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_02.fbx
+  artifactKey: Guid(e0ab1b4d36e0cdf4eb94e741a07f7315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_02.fbx using Guid(e0ab1b4d36e0cdf4eb94e741a07f7315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd75057631cab00456b3fbfde77cb0e2') in 0.082039 seconds 
+  Import took 0.084620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_11.fbx
+  artifactKey: Guid(2104ee21dda77504d976ffea5c67d705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_11.fbx using Guid(2104ee21dda77504d976ffea5c67d705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f127a3e305cd46ee1461e42f0870bd') in 0.055362 seconds 
+  Import took 0.058103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_03.fbx
+  artifactKey: Guid(1cc7e278fc85fb245ad32b4a38915c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_03.fbx using Guid(1cc7e278fc85fb245ad32b4a38915c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02e95b59016a0e554c6dd889a33332b') in 0.046520 seconds 
+  Import took 0.049315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_05.fbx
+  artifactKey: Guid(bbe5eafc39e7fee448fde00e9ba07ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_05.fbx using Guid(bbe5eafc39e7fee448fde00e9ba07ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ee728d57a3a083f9a62943f7928c06') in 0.066525 seconds 
+  Import took 0.069184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_09.fbx
+  artifactKey: Guid(2935b2301b9c98649a410bd51b2bdcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_09.fbx using Guid(2935b2301b9c98649a410bd51b2bdcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e20e323e675e5be61e51f6bc5380210') in 0.034204 seconds 
+  Import took 0.037134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_07.fbx
+  artifactKey: Guid(c1b89d6ca852e624a9756c972eb545c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_07.fbx using Guid(c1b89d6ca852e624a9756c972eb545c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e6c53d51350cbf54c5a3db8d8aee54') in 0.048818 seconds 
+  Import took 0.051738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_10.fbx
+  artifactKey: Guid(b896198a8cd6a3247bd4bac481a1cec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_10.fbx using Guid(b896198a8cd6a3247bd4bac481a1cec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e01ec1a68a5d462e6e8ce73cb3c285') in 0.065223 seconds 
+  Import took 0.068772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RangeHood_01.fbx
+  artifactKey: Guid(cacffa4daef59b84bb9a4af2d18e628c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RangeHood_01.fbx using Guid(cacffa4daef59b84bb9a4af2d18e628c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b089597cee18c557300e602d73f58950') in 0.033208 seconds 
+  Import took 0.053741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordPlayer.fbx
+  artifactKey: Guid(9059fde085ac4914d86d14b0731f2c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordPlayer.fbx using Guid(9059fde085ac4914d86d14b0731f2c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1633326e4867247ded9c053333f461c') in 0.046195 seconds 
+  Import took 0.068438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_04.fbx
+  artifactKey: Guid(d41de932cca549440b19e57e2b1fbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_04.fbx using Guid(d41de932cca549440b19e57e2b1fbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518bb2a17fb5d5ddc8385daf936fbedf') in 0.016647 seconds 
+  Import took 0.019605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RubbishBin_01.fbx
+  artifactKey: Guid(7578baedace464843a91e826cf1e53b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RubbishBin_01.fbx using Guid(7578baedace464843a91e826cf1e53b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120223a001030ac0cd5b3116566d5c82') in 0.018555 seconds 
+  Import took 0.022293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_01.fbx
+  artifactKey: Guid(3f8fa0b6ab12f3e4384c36d110ad2c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_01.fbx using Guid(3f8fa0b6ab12f3e4384c36d110ad2c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391cfb010866d8b0c58b0177a49565eb') in 0.086743 seconds 
+  Import took 0.089509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_01.fbx
+  artifactKey: Guid(1ce799e4890df434a8a480f95238ce60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_01.fbx using Guid(1ce799e4890df434a8a480f95238ce60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4365771af14737bb39137a7f9c409a9') in 0.057131 seconds 
+  Import took 0.059707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Empty_01.fbx
+  artifactKey: Guid(28867e3003b8b324b8f1f23e4c412c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Empty_01.fbx using Guid(28867e3003b8b324b8f1f23e4c412c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75550b2d66229b84d9594d9b25d396b') in 0.086663 seconds 
+  Import took 0.089726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_03.fbx
+  artifactKey: Guid(ecb887c4040465b47b0cf08ef83cf3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_03.fbx using Guid(ecb887c4040465b47b0cf08ef83cf3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97823c3a1a019438eae89fc5e58f53c7') in 0.053930 seconds 
+  Import took 0.056668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_02.fbx
+  artifactKey: Guid(cf2d8ed6aa2bcf946a44816d31111b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_02.fbx using Guid(cf2d8ed6aa2bcf946a44816d31111b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e219c4a09a2eedd4f62da4390b93c4') in 0.103176 seconds 
+  Import took 0.106109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_25.fbx
+  artifactKey: Guid(86cf9ae0afe02c84388eb17032ffe422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_25.fbx using Guid(86cf9ae0afe02c84388eb17032ffe422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e69fca524ee1ef7718d2bea38fda0f') in 0.045261 seconds 
+  Import took 0.057872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Ring_01.fbx
+  artifactKey: Guid(292bd5ff5240e6b428a800ee8a08cfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Ring_01.fbx using Guid(292bd5ff5240e6b428a800ee8a08cfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3e67476ee524b8bd89df039d349662') in 0.041641 seconds 
+  Import took 0.044776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_04.fbx
+  artifactKey: Guid(02b05fffc365ba34ea68602e4b0a2e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_04.fbx using Guid(02b05fffc365ba34ea68602e4b0a2e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498dfc2ccba317a2fd0f7cd458a4bdc9') in 0.042238 seconds 
+  Import took 0.045252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_26.fbx
+  artifactKey: Guid(b1cc684e669db3d48a91649a0321ece3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_26.fbx using Guid(b1cc684e669db3d48a91649a0321ece3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b61fa1fa5675bbd8bbad0c53f776efc9') in 0.052723 seconds 
+  Import took 0.056566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_04.fbx
+  artifactKey: Guid(73c957c8cb6cbd2488f670dd33314122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_04.fbx using Guid(73c957c8cb6cbd2488f670dd33314122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0cda341a910b7a057a727a0c1f668c') in 0.015426 seconds 
+  Import took 0.018258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_01.fbx
+  artifactKey: Guid(451f1dccbd8c5374187df4d717fd0cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_01.fbx using Guid(451f1dccbd8c5374187df4d717fd0cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27475f70c299f3bddb784b240b1ab8a3') in 0.052196 seconds 
+  Import took 0.055157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_06.fbx
+  artifactKey: Guid(88387d0296909cf4e9bb235634baa30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_06.fbx using Guid(88387d0296909cf4e9bb235634baa30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2e11cd73de67d6210324ea00e13b96') in 0.054155 seconds 
+  Import took 0.056839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_01.fbx
+  artifactKey: Guid(29fcdaec4098c95499b75c82f182fcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_01.fbx using Guid(29fcdaec4098c95499b75c82f182fcff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13667de3993a13d7a796e969a1c8ddf6') in 0.041010 seconds 
+  Import took 0.043721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_03.fbx
+  artifactKey: Guid(fabc2e1040f7cec43a42c5e3a4472e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_03.fbx using Guid(fabc2e1040f7cec43a42c5e3a4472e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfc336054a6bd966b4b095a269479ac') in 0.046473 seconds 
+  Import took 0.050173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_04.fbx
+  artifactKey: Guid(5d858fc552b81174f9d25266b7807832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_04.fbx using Guid(5d858fc552b81174f9d25266b7807832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4b0c17a28be0aaabb2edc4a9b1472d') in 0.065391 seconds 
+  Import took 0.068208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_02.fbx
+  artifactKey: Guid(d66ada9a8460bf244ae0deb08b99a974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_02.fbx using Guid(d66ada9a8460bf244ae0deb08b99a974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da6218b7ad01ec83060164cb43a79b9') in 0.037073 seconds 
+  Import took 0.039703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_End_Preset_01.fbx
+  artifactKey: Guid(ae9741ee780418047817ffa22ed77086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_End_Preset_01.fbx using Guid(ae9741ee780418047817ffa22ed77086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0efc893e0e5a9a106773001bbbc42d') in 0.016324 seconds 
+  Import took 0.019027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_15.fbx
+  artifactKey: Guid(b1d58760ad2497842ade9497c4e16515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_15.fbx using Guid(b1d58760ad2497842ade9497c4e16515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb58bb780fc0a09de09ba74c2e196d33') in 0.066889 seconds 
+  Import took 0.069681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_13.fbx
+  artifactKey: Guid(1c52d97a5f219ba4cbf3c3093135391b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_13.fbx using Guid(1c52d97a5f219ba4cbf3c3093135391b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '484ad274378aab05bb61dfbe67a6ad2c') in 0.059807 seconds 
+  Import took 0.062496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_05.fbx
+  artifactKey: Guid(dcb7268d5ab195443b3da3265d8a0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_05.fbx using Guid(dcb7268d5ab195443b3da3265d8a0751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd68c0636bcc457f9cfd62e6d093a5c') in 0.075525 seconds 
+  Import took 0.078610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_05.fbx
+  artifactKey: Guid(c441e5f54f5aee643821556f73c632c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_05.fbx using Guid(c441e5f54f5aee643821556f73c632c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9598fd4a45121438ed597abb28fa2ee1') in 0.061196 seconds 
+  Import took 0.063907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_06.fbx
+  artifactKey: Guid(2f5918f1c9ebdae458f714792b26b6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_06.fbx using Guid(2f5918f1c9ebdae458f714792b26b6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861119393c3555e785c436a0b9d894d9') in 0.095467 seconds 
+  Import took 0.098087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_05.fbx
+  artifactKey: Guid(e9c89fa44312af24bb1298d14946330c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_05.fbx using Guid(e9c89fa44312af24bb1298d14946330c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cf18b6bd3af7359dd4f761073e4af6') in 0.035647 seconds 
+  Import took 0.038370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_03.fbx
+  artifactKey: Guid(da91b881f52136240b0e3a5f3ea6cf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_03.fbx using Guid(da91b881f52136240b0e3a5f3ea6cf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92311665e68749f095ffd7379573b949') in 0.020977 seconds 
+  Import took 0.023922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_05.fbx
+  artifactKey: Guid(d05ff24d0010e7042a43e83257760671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_05.fbx using Guid(d05ff24d0010e7042a43e83257760671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f89863972822088e5105582b801943') in 0.098515 seconds 
+  Import took 0.101420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Preset_02.fbx
+  artifactKey: Guid(c52666ff428242f46adaf2c6e5905914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Preset_02.fbx using Guid(c52666ff428242f46adaf2c6e5905914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f216bc17bf006266e60378401780c854') in 0.020765 seconds 
+  Import took 0.023691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_02.fbx
+  artifactKey: Guid(b15175d3bd82dc942bd6a4f7d202d55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_02.fbx using Guid(b15175d3bd82dc942bd6a4f7d202d55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0555a5a6de43b7eebeae3fb12516f6c') in 0.034539 seconds 
+  Import took 0.037406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Empty_02.fbx
+  artifactKey: Guid(f5c4cf22273568640b97222ce7f30e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Empty_02.fbx using Guid(f5c4cf22273568640b97222ce7f30e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e88d89b1b3048c89ae91d58d821b8a2') in 0.047290 seconds 
+  Import took 0.050433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_06.fbx
+  artifactKey: Guid(d8725edcaf9fe22499c2ae0f8da2eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Slippers_06.fbx using Guid(d8725edcaf9fe22499c2ae0f8da2eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb2f079f8cbf54918a035e361d15f43') in 0.083767 seconds 
+  Import took 0.087008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_12.fbx
+  artifactKey: Guid(6b3877f55f48d204b8b31e6606abf44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_12.fbx using Guid(6b3877f55f48d204b8b31e6606abf44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1a909c0361441bfb2a2a339fc997ce') in 0.064314 seconds 
+  Import took 0.067066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Empty_01.fbx
+  artifactKey: Guid(6a9a3bb5ab26ab0458d130d66369eaa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Empty_01.fbx using Guid(6a9a3bb5ab26ab0458d130d66369eaa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e7d1c13f424fa7309071dbfd739953') in 0.090328 seconds 
+  Import took 0.093217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_03.fbx
+  artifactKey: Guid(76c4d977b0bf39e42a13e0d4ff7050d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_03.fbx using Guid(76c4d977b0bf39e42a13e0d4ff7050d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51ebcdec14686bea8562ffd50d8dfd1') in 0.050724 seconds 
+  Import took 0.053707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Safe_01.fbx
+  artifactKey: Guid(fccc19b1c9f51b440a1db6ba84587ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Safe_01.fbx using Guid(fccc19b1c9f51b440a1db6ba84587ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7446320545bb7a369d041c38e203582') in 0.066390 seconds 
+  Import took 0.069140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_18.fbx
+  artifactKey: Guid(71be13a2ce8756347aad5cab08d29dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_18.fbx using Guid(71be13a2ce8756347aad5cab08d29dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76acd74d8758a6b9ef7c67b0e362d87') in 0.055981 seconds 
+  Import took 0.058719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Preset_01.fbx
+  artifactKey: Guid(6742f9d40d29d85418d28890850f8879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Freezer_Preset_01.fbx using Guid(6742f9d40d29d85418d28890850f8879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166368254ea37af9fd8640d889e7d4fd') in 0.023671 seconds 
+  Import took 0.027582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_02.fbx
+  artifactKey: Guid(4206f8b2f94bac7438a3b1a8df423252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_02.fbx using Guid(4206f8b2f94bac7438a3b1a8df423252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3319c354ba2c317a9a0cd87d5a69fc') in 0.033417 seconds 
+  Import took 0.036698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_03.fbx
+  artifactKey: Guid(18cc4bb6a35262946b6f59f9decfdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_03.fbx using Guid(18cc4bb6a35262946b6f59f9decfdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a9b54ca6a161a858b23b5f640d03ed') in 0.017693 seconds 
+  Import took 0.021415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_12.fbx
+  artifactKey: Guid(95fa287c9055f884ba86d87db28240d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_12.fbx using Guid(95fa287c9055f884ba86d87db28240d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d8da19d2c946f70b157cbbb7db88fe') in 0.017071 seconds 
+  Import took 0.020578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SelfCheckout_02.fbx
+  artifactKey: Guid(76088acdc5e9dbd4584bc88f086f1b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SelfCheckout_02.fbx using Guid(76088acdc5e9dbd4584bc88f086f1b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6617adedad1afd1f6fb4599f28c8935') in 0.018158 seconds 
+  Import took 0.021660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordShelf_01.fbx
+  artifactKey: Guid(25a2d3466e876f9459bf4f42eb553361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordShelf_01.fbx using Guid(25a2d3466e876f9459bf4f42eb553361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aea36fdf24391354a5212d38564405d') in 0.034908 seconds 
+  Import took 0.037822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_05.fbx
+  artifactKey: Guid(1a5b7d737d478cb4483eed4a7dd8210b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_05.fbx using Guid(1a5b7d737d478cb4483eed4a7dd8210b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4905a4d264172d441040802b8e42b52b') in 0.043118 seconds 
+  Import took 0.046530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_01.fbx
+  artifactKey: Guid(64e1c3dac2286bc4bb58c37c78b96ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ProduceSection_01.fbx using Guid(64e1c3dac2286bc4bb58c37c78b96ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfac8a894d38af627bb3f88a50e5874b') in 0.032158 seconds 
+  Import took 0.035303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_07.fbx
+  artifactKey: Guid(0f107c7576941534ab3abd59cbe2e8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_07.fbx using Guid(0f107c7576941534ab3abd59cbe2e8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623ef0042d1abf67cbd4760eaf58a68c') in 0.045720 seconds 
+  Import took 0.048833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_05.fbx
+  artifactKey: Guid(48a2daa7238d5ce49b7bf1d4bf293c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_05.fbx using Guid(48a2daa7238d5ce49b7bf1d4bf293c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ee6de8df4d0ff7d3f47ec5c8f00221') in 0.070452 seconds 
+  Import took 0.073273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Scanner_01.fbx
+  artifactKey: Guid(9256ed052a496884aadc94e8afd1405c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Scanner_01.fbx using Guid(9256ed052a496884aadc94e8afd1405c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5062bdd707832d2fd124807d42fe5181') in 0.050260 seconds 
+  Import took 0.053427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_17.fbx
+  artifactKey: Guid(5d69e297b923d3942a7cdfd6297afd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_17.fbx using Guid(5d69e297b923d3942a7cdfd6297afd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd490cbdeb47961f93be61f27a0c135') in 0.062153 seconds 
+  Import took 0.065040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_02.fbx
+  artifactKey: Guid(7b38c38d35e13334793b505a5ebf862f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_02.fbx using Guid(7b38c38d35e13334793b505a5ebf862f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042c5fcd9d051a5683b84c7ecf761a28') in 0.054637 seconds 
+  Import took 0.057773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_24.fbx
+  artifactKey: Guid(0c623d82d905d7f4e8d4512167d37c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_24.fbx using Guid(0c623d82d905d7f4e8d4512167d37c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be870322349c448c0bcca7bc61fff4e9') in 0.076229 seconds 
+  Import took 0.078679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_20.fbx
+  artifactKey: Guid(2d4ff684b421bb04287f21762cde2027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_20.fbx using Guid(2d4ff684b421bb04287f21762cde2027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c3fb24f8636b649992f2979c8060b6') in 0.039133 seconds 
+  Import took 0.041802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_05.fbx
+  artifactKey: Guid(301362a3f00d2524dad8e2ff1975f6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_05.fbx using Guid(301362a3f00d2524dad8e2ff1975f6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9768ea4ce42acde7bf5c127c1dd3d3') in 0.063202 seconds 
+  Import took 0.066329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_14.fbx
+  artifactKey: Guid(3b8df38701c1aff4c90cc23143b952fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_14.fbx using Guid(3b8df38701c1aff4c90cc23143b952fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dab67d96b584bc535e2a4625b5e1db2') in 0.087544 seconds 
+  Import took 0.103280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_Stack_01.fbx
+  artifactKey: Guid(5ff9acd7a929cb341bbca425073f2804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_Stack_01.fbx using Guid(5ff9acd7a929cb341bbca425073f2804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5248a88f3a24311192d3be417cdaa106') in 0.033710 seconds 
+  Import took 0.036412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_04.fbx
+  artifactKey: Guid(02995a401aee3484ab9c8257613e5297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_04.fbx using Guid(02995a401aee3484ab9c8257613e5297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5da04f7535572f71c725291ed9fecb') in 0.064279 seconds 
+  Import took 0.067438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_23.fbx
+  artifactKey: Guid(95c9c7a0d03a593499dcc6141406a6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_23.fbx using Guid(95c9c7a0d03a593499dcc6141406a6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651cbc754e5f4e007c49f3d4b506d103') in 0.044090 seconds 
+  Import took 0.061742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_04.fbx
+  artifactKey: Guid(3d703d7fd76e29a4387132a6264bd683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_04.fbx using Guid(3d703d7fd76e29a4387132a6264bd683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d98a5cf96eb34b067f9df37a1d2f25e') in 0.083581 seconds 
+  Import took 0.086219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_03.fbx
+  artifactKey: Guid(afaa9d859ddb1f84ca66da00bf7948e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_03.fbx using Guid(afaa9d859ddb1f84ca66da00bf7948e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41d290a83581e27fa6ff65a8cccbfab') in 0.061650 seconds 
+  Import took 0.064165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_04.fbx
+  artifactKey: Guid(659eb04e7c8d7f2428449dcf47f478d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_04.fbx using Guid(659eb04e7c8d7f2428449dcf47f478d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd340820bcabfc3332fa822161cc70092') in 0.092352 seconds 
+  Import took 0.095094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_01.fbx
+  artifactKey: Guid(f71c6191026eb0a42a7661c95273380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_01.fbx using Guid(f71c6191026eb0a42a7661c95273380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e46b32ac792d409d0a090ca093b2a9b') in 0.054859 seconds 
+  Import took 0.058401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_07.fbx
+  artifactKey: Guid(d98b6ad254d687449b819c8a2637757f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_07.fbx using Guid(d98b6ad254d687449b819c8a2637757f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff857de0471b18765c13a3cf1383d95') in 0.044975 seconds 
+  Import took 0.047797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_01.fbx
+  artifactKey: Guid(d7fae26b2003e8b4f9b421c471b2d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShoeShelf_01.fbx using Guid(d7fae26b2003e8b4f9b421c471b2d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2c46fd98ec2adda784938d2ea5be9b') in 0.061419 seconds 
+  Import took 0.064013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_03.fbx
+  artifactKey: Guid(923b14a5621bb9b46a43ad703abcaa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_PriceTag_03.fbx using Guid(923b14a5621bb9b46a43ad703abcaa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07963747dd5b5090ae6a2243e914260f') in 0.049193 seconds 
+  Import took 0.051895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_02.fbx
+  artifactKey: Guid(2d9e2a2c1be5d4a40beba283b70d5250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_02.fbx using Guid(2d9e2a2c1be5d4a40beba283b70d5250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e78f9d2822fbf0ad0415fca1a0ab4cf') in 0.052768 seconds 
+  Import took 0.055470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_03.fbx
+  artifactKey: Guid(effeb239329eb2747ab8c0f5ff3924b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_03.fbx using Guid(effeb239329eb2747ab8c0f5ff3924b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a711ab244da8229f7fd1bbff76163e9') in 0.087127 seconds 
+  Import took 0.089918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_01.fbx
+  artifactKey: Guid(1d309e17bae0b114d9eb343686a9447d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_01.fbx using Guid(1d309e17bae0b114d9eb343686a9447d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca094530adbb89bf7535c595e64a4aed') in 0.054731 seconds 
+  Import took 0.057440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RubbishBin_02.fbx
+  artifactKey: Guid(1f53b1f74b4784e45bdb8029ab158c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RubbishBin_02.fbx using Guid(1f53b1f74b4784e45bdb8029ab158c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ea2710b06125710a01488c467f82f4') in 0.070968 seconds 
+  Import took 0.073530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_11.fbx
+  artifactKey: Guid(83cdd9d216789e4458943e07877163b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_11.fbx using Guid(83cdd9d216789e4458943e07877163b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbc460730aea921e3f7c0f10f80f3c4') in 0.058864 seconds 
+  Import took 0.061452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_09.fbx
+  artifactKey: Guid(4488c5555f8c13f42a01eecc2b1bdb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_09.fbx using Guid(4488c5555f8c13f42a01eecc2b1bdb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ed91e0172a531421bd1db5dfff32e4') in 0.043420 seconds 
+  Import took 0.046263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_02.fbx
+  artifactKey: Guid(f99f9786d69af664692f5bfc8a0f709b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Box_02.fbx using Guid(f99f9786d69af664692f5bfc8a0f709b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82d82c141cfb8bd0b91cc6d2303413d') in 0.048799 seconds 
+  Import took 0.051527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordShelf_02.fbx
+  artifactKey: Guid(a34d01ae27150be4782c69518219b999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_RecordShelf_02.fbx using Guid(a34d01ae27150be4782c69518219b999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f678d2888e5b522fc002c98de7c36ad') in 0.059082 seconds 
+  Import took 0.062218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_01.fbx
+  artifactKey: Guid(1269580ba33b55545a8ccb82369d224f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_01.fbx using Guid(1269580ba33b55545a8ccb82369d224f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb279c514567327cfc55173256a0573') in 0.044558 seconds 
+  Import took 0.047528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirts_Table_01.fbx
+  artifactKey: Guid(65ff3722723dfe44f88b6ab7c1f3e102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirts_Table_01.fbx using Guid(65ff3722723dfe44f88b6ab7c1f3e102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bf9550be138b3de363f0a9f4e2068f') in 0.033293 seconds 
+  Import took 0.036313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_10.fbx
+  artifactKey: Guid(d80b434ceaab98d4095a9b86d8411b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_10.fbx using Guid(d80b434ceaab98d4095a9b86d8411b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2341e3d400df034279b58a8d358f24') in 0.052586 seconds 
+  Import took 0.056959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_22.fbx
+  artifactKey: Guid(1b97ae369d2d71d438dbb3bbbd2bd343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_22.fbx using Guid(1b97ae369d2d71d438dbb3bbbd2bd343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a2475d0e369171b85e10dac70c586c') in 0.070719 seconds 
+  Import took 0.073665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_End_01.fbx
+  artifactKey: Guid(817e2e5bf1b540845b00ac5b4b09e3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_End_01.fbx using Guid(817e2e5bf1b540845b00ac5b4b09e3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c8ca7062fc43e0242966e8c71f9913') in 0.043901 seconds 
+  Import took 0.084601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_02.fbx
+  artifactKey: Guid(6d77ffa628dd8134b9bccb4a853e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Sneakers_02.fbx using Guid(6d77ffa628dd8134b9bccb4a853e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4675e2b75e785db2cd788140abfc4ab') in 0.057716 seconds 
+  Import took 0.060340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_BoxOpen_01.fbx
+  artifactKey: Guid(6a94bd5c9f1d15f40a53695925720374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_BoxOpen_01.fbx using Guid(6a94bd5c9f1d15f40a53695925720374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76a2c533ca6455fe3de5146e947c57d') in 0.122734 seconds 
+  Import took 0.125379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_03.fbx
+  artifactKey: Guid(e0337a33db7866648b32ad4e483574df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Flipflops_03.fbx using Guid(e0337a33db7866648b32ad4e483574df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdce6d4cd0a82f4898c7a73b45a3395d') in 0.046951 seconds 
+  Import took 0.049704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Ring_02.fbx
+  artifactKey: Guid(550211fe22418434d98517b0e88f6b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Ring_02.fbx using Guid(550211fe22418434d98517b0e88f6b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4528287839e9bf0076ca19eaa9402643') in 0.040843 seconds 
+  Import took 0.043727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_01.fbx
+  artifactKey: Guid(2c924345eb30eac4882c4140021f2681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shirt_Shelf_01.fbx using Guid(2c924345eb30eac4882c4140021f2681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eecfa928dfe424f90ca75ba4856a8621') in 0.066155 seconds 
+  Import took 0.068964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_08.fbx
+  artifactKey: Guid(1980f9f1161e83a44a48343981d4f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_08.fbx using Guid(1980f9f1161e83a44a48343981d4f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6b9490900edae524f6bbfc625de424') in 0.083386 seconds 
+  Import took 0.086574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_01.fbx
+  artifactKey: Guid(ac1265beadf2ed84b89e325ca3488b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shelf_Isle_Preset_01.fbx using Guid(ac1265beadf2ed84b89e325ca3488b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b89dcd084612c30e9dfe4141df20ac2') in 0.044520 seconds 
+  Import took 0.047421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SecurityScanner_01.fbx
+  artifactKey: Guid(ea7115980e9166440b24a0c8a292be4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SecurityScanner_01.fbx using Guid(ea7115980e9166440b24a0c8a292be4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba83e3e730b3250931d4a254b427cd3') in 0.015189 seconds 
+  Import took 0.018196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SelfCheckout_01.fbx
+  artifactKey: Guid(57c6a0b80cb31fa4c83981c21f317e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_SelfCheckout_01.fbx using Guid(57c6a0b80cb31fa4c83981c21f317e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6865f030e8184869dd001e204f471a00') in 0.017183 seconds 
+  Import took 0.042532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_03.fbx
+  artifactKey: Guid(35d23ff5844627643afaf0d62cc6c31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_03.fbx using Guid(35d23ff5844627643afaf0d62cc6c31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f9089b721923e6afc8d649247a33bc') in 0.039222 seconds 
+  Import took 0.042902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Register_01.fbx
+  artifactKey: Guid(f146c7a11047f594d8c020a5b43f712c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Register_01.fbx using Guid(f146c7a11047f594d8c020a5b43f712c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3972d938533a7a25933216f46d20a67f') in 0.050259 seconds 
+  Import took 0.053639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_16.fbx
+  artifactKey: Guid(69edd42644a6c2047ae333aedf83fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ShelfItem_16.fbx using Guid(69edd42644a6c2047ae333aedf83fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea0b242ca96e964d10974d14c45860e') in 0.054743 seconds 
+  Import took 0.057377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_04.fbx
+  artifactKey: Guid(235d6c36a2437e04e88eccc5621599f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Shoe_Boots_04.fbx using Guid(235d6c36a2437e04e88eccc5621599f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cdc5d50ed290c07f4ee838faf35b8d5') in 0.033327 seconds 
+  Import took 0.036368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_01.fbx
+  artifactKey: Guid(b766aee7c7d825c4c916bca664e2825d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Plate_01.fbx using Guid(b766aee7c7d825c4c916bca664e2825d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa32bfe27f7f27beddc58f36dcb4c14') in 0.061330 seconds 
+  Import took 0.064272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804685 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Cucumber_02.fbx
+  artifactKey: Guid(391af31780112a141a2510574bfa24b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Cucumber_02.fbx using Guid(391af31780112a141a2510574bfa24b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc334e643f744b02ae579cd05dc48ef') in 0.086994 seconds 
+  Import took 0.089804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Mushroom.fbx
+  artifactKey: Guid(af050b62474fc094694e8760109ee1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Mushroom.fbx using Guid(af050b62474fc094694e8760109ee1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644d39927cbf9249c8f3c0f5bdf2c6f1') in 0.040668 seconds 
+  Import took 0.043507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Leak.fbx
+  artifactKey: Guid(7b2c02e25ff5bab45be9ecaf6825c1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Leak.fbx using Guid(7b2c02e25ff5bab45be9ecaf6825c1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5acc3c7bf1f014ffe6171af21cd9dc1') in 0.040941 seconds 
+  Import took 0.043566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Toast.fbx
+  artifactKey: Guid(27e2313bee8689b48b8e21bf9bf59229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Toast.fbx using Guid(27e2313bee8689b48b8e21bf9bf59229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48282f19367c5663f4033a1f044be96') in 0.031827 seconds 
+  Import took 0.034571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_02.fbx
+  artifactKey: Guid(684e54e9d9a12c94887540b99162b823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_02.fbx using Guid(684e54e9d9a12c94887540b99162b823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a452aa4a7fca2550f95357375894dae') in 0.033623 seconds 
+  Import took 0.037484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_01.fbx
+  artifactKey: Guid(83497dbc028c28743ac3411d14b42ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_01.fbx using Guid(83497dbc028c28743ac3411d14b42ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09ff644df1cf8065337443196201ff4') in 0.039895 seconds 
+  Import took 0.042562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pineapple.fbx
+  artifactKey: Guid(23d97f7e7f5499544882c76a59b19e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pineapple.fbx using Guid(23d97f7e7f5499544882c76a59b19e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31d47580ea834671dace78b9399a9ee') in 0.041649 seconds 
+  Import took 0.045045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_03.fbx
+  artifactKey: Guid(14704f25c244d074a81b2beee1d262c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_03.fbx using Guid(14704f25c244d074a81b2beee1d262c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7521824107e7c23c7544556636be82a') in 0.044539 seconds 
+  Import took 0.047490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_KiwiFruit_01.fbx
+  artifactKey: Guid(ebf1ea69499dd0444a0ad2c64fb5e6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_KiwiFruit_01.fbx using Guid(ebf1ea69499dd0444a0ad2c64fb5e6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648021e0338310d8e76492a1e3b19116') in 0.038623 seconds 
+  Import took 0.041215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Sliced.fbx
+  artifactKey: Guid(0cbc74b8803117147a61a46cee01efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Sliced.fbx using Guid(0cbc74b8803117147a61a46cee01efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e382dca7fa3bdfb1e8b7fff69445e1') in 0.047759 seconds 
+  Import took 0.051720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_KiwiFruit_02.fbx
+  artifactKey: Guid(faeb0eef517428f44a2e930fc75fbf27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_KiwiFruit_02.fbx using Guid(faeb0eef517428f44a2e930fc75fbf27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5e213e87aff6f41cb44aac9d109c5e') in 0.050931 seconds 
+  Import took 0.054024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Orange_02.fbx
+  artifactKey: Guid(ce83fc248c2a7144a83cff10ed03d406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Orange_02.fbx using Guid(ce83fc248c2a7144a83cff10ed03d406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3161c7ef774fdab1e9ba5657bc8457d8') in 0.033343 seconds 
+  Import took 0.036091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Pizza.fbx
+  artifactKey: Guid(ddd52555ffda3314b9bc427d49494e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Pizza.fbx using Guid(ddd52555ffda3314b9bc427d49494e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2fa844e6203239ea0110dc38b445c4e') in 0.039438 seconds 
+  Import took 0.042252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Tomato.fbx
+  artifactKey: Guid(9f904c8d44ead674883394406f827f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Tomato.fbx using Guid(9f904c8d44ead674883394406f827f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f671aa26fcce2695a2052527821cc5') in 0.073950 seconds 
+  Import took 0.093315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_01.fbx
+  artifactKey: Guid(ea3869eb89b5ff3409f21577499d5988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_01.fbx using Guid(ea3869eb89b5ff3409f21577499d5988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c7e01754d2009e5efd9cf7f02eac9a') in 0.037737 seconds 
+  Import took 0.040694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_02.fbx
+  artifactKey: Guid(d2836929ff620854b95b57f11926abc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_02.fbx using Guid(d2836929ff620854b95b57f11926abc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671878086689363790970796f44d93dd') in 0.039898 seconds 
+  Import took 0.042404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Mushrooms.fbx
+  artifactKey: Guid(7d932c7dd3d945e4787a5810c0fd03cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Mushrooms.fbx using Guid(7d932c7dd3d945e4787a5810c0fd03cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc090b8d2eec0bd86e00c6c9dd6e07b1') in 0.052520 seconds 
+  Import took 0.055075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Tomato_Sliced.fbx
+  artifactKey: Guid(389a034b31f8b8846a1f78fdb10218e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Tomato_Sliced.fbx using Guid(389a034b31f8b8846a1f78fdb10218e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048febf672b38007b77c420200a728fd') in 0.062034 seconds 
+  Import took 0.064622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Slice_02.fbx
+  artifactKey: Guid(619f0b48de16c124dbf6f9dc8f2cd5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Slice_02.fbx using Guid(619f0b48de16c124dbf6f9dc8f2cd5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a42ffe31df5fdb95ec86f28a7bd708e6') in 0.025278 seconds 
+  Import took 0.027873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_CucumberSliced.fbx
+  artifactKey: Guid(c2299eebf8d5a4345b7d2ddef8b743a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_CucumberSliced.fbx using Guid(c2299eebf8d5a4345b7d2ddef8b743a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc21d4ee6608c37c3809e5c8d26d4084') in 0.111368 seconds 
+  Import took 0.114360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_03.fbx
+  artifactKey: Guid(d3bbeb7eea4247442a63bde02921bbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_03.fbx using Guid(d3bbeb7eea4247442a63bde02921bbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a73deece738d7908382b193a9b50241') in 0.066364 seconds 
+  Import took 0.068992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Slice_01.fbx
+  artifactKey: Guid(4efbbb8bc87253c479c90bb4669ed1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_WaterMelon_Slice_01.fbx using Guid(4efbbb8bc87253c479c90bb4669ed1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4912db97fa2868bf720ecce046fd7a2b') in 0.093462 seconds 
+  Import took 0.096137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Orange_01.fbx
+  artifactKey: Guid(8aa9c2b6ce0ab4040afda511ee1bb0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Orange_01.fbx using Guid(8aa9c2b6ce0ab4040afda511ee1bb0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bf7e723dc8cfbe0211d052edd1953e') in 0.048447 seconds 
+  Import took 0.051351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_02.fbx
+  artifactKey: Guid(fac3f861a349d484a91061b9ed7aa40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Organic_Pear_02.fbx using Guid(fac3f861a349d484a91061b9ed7aa40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24b0b4e1dc57d44c9d011795dfb3d7a') in 0.057761 seconds 
+  Import took 0.060549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_01.fbx
+  artifactKey: Guid(99844da2480d2624cad6125ad9875c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_Sushi_01.fbx using Guid(99844da2480d2624cad6125ad9875c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a3be73bfcfe949d59bdbfb48175f7c') in 0.060863 seconds 
+  Import took 0.063736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Food/SI_Food_TakeawayBag.fbx
+  artifactKey: Guid(e04d355ec6025344386240511feca492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Food/SI_Food_TakeawayBag.fbx using Guid(e04d355ec6025344386240511feca492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab1982d1b386645fba5cb5901f55ed5') in 0.073063 seconds 
+  Import took 0.075985 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003253 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.001 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.6 MB.
-System memory in use after: 68.7 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1912.
-Total: 2.319500 ms (FindLiveObjects: 0.159700 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.082600 ms  DeleteObjects: 0.021200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 35.578753 seconds.
-  path: Assets/Prefabs
-  artifactKey: Guid(6e0d9759967ef754083ef89d80ded54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(6e0d9759967ef754083ef89d80ded54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d42b0a3d2fe15560ba7336b91f0c5e') in 0.010439 seconds 
-  Import took 0.013894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 74.983901 seconds.
-  path: Assets/Materials
-  artifactKey: Guid(0e1f59d5d4c568b4985ef6e9208ee5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials using Guid(0e1f59d5d4c568b4985ef6e9208ee5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c118defd56d79d9e932790072f424') in 0.009261 seconds 
-  Import took 0.055210 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.122186 seconds.
-  path: Assets/Materials/PlayerMaterials.mat
-  artifactKey: Guid(7fdf603d72236914d83ead429f7b511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/PlayerMaterials.mat using Guid(7fdf603d72236914d83ead429f7b511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8d2a156f9292f7f35c9b4332be8816') in 0.197012 seconds 
-  Import took 0.215032 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003397 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.984 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.0 MB.
-System memory in use after: 72.1 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1955.
-Total: 2.221000 ms (FindLiveObjects: 0.199700 ms CreateObjectMapping: 0.051000 ms MarkObjects: 1.948500 ms  DeleteObjects: 0.020800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003396 seconds.
+Registered in 0.004012 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.986 seconds
+- Completed reload, in  0.965 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.0 MB.
-System memory in use after: 72.1 MB.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.2 MB.
+System memory in use after: 72.3 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1958.
-Total: 2.268900 ms (FindLiveObjects: 0.163700 ms CreateObjectMapping: 0.052200 ms MarkObjects: 2.032900 ms  DeleteObjects: 0.019100 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1924.
+Total: 2.117300 ms (FindLiveObjects: 0.163600 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.878300 ms  DeleteObjects: 0.027400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -204,51 +1649,661 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 399.255566 seconds.
+  Time since last request: 1055.975610 seconds.
   path: ProjectSettings/TagManager.asset
   artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.019763 seconds 
-  Import took 0.022773 seconds .
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8f982b938424dfe08d945d51f80e98') in 0.022069 seconds 
+  Import took 0.024805 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003312 seconds.
+  Time since last request: 0.002207 seconds.
   path: ProjectSettings/TagManager.asset
   artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.003629 seconds 
-  Import took 0.006522 seconds .
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8f982b938424dfe08d945d51f80e98') in 0.002174 seconds 
+  Import took 0.005072 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 47.032297 seconds.
-  path: Assets/Scripts/PlayerScripts/PlayerMovement.cs
-  artifactKey: Guid(6d00de6e3ac1a0f4ca89b8a8e6344c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerScripts/PlayerMovement.cs using Guid(6d00de6e3ac1a0f4ca89b8a8e6344c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af04ae27a31fb1a71e581edc55b0108') in 0.013658 seconds 
-  Import took 0.057159 seconds .
+  Time since last request: 299.290764 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_02.fbx
+  artifactKey: Guid(f1a9e1ae5c0bbe843876c52437556df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_02.fbx using Guid(f1a9e1ae5c0bbe843876c52437556df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b4264535e6c3bcbb2c14086cfb115a') in 0.303558 seconds 
+  Import took 0.306499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_08.fbx
+  artifactKey: Guid(f08d4b33f56e83b4bb8825be54e2cd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_08.fbx using Guid(f08d4b33f56e83b4bb8825be54e2cd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf05aaafac322124ee3be66a03b03b6') in 0.063235 seconds 
+  Import took 0.065789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_09.fbx
+  artifactKey: Guid(f386931661e7d414d943014d5e25a6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_09.fbx using Guid(f386931661e7d414d943014d5e25a6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff615d3410297b6367859dfc29e9fa6') in 0.057156 seconds 
+  Import took 0.059737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_01.fbx
+  artifactKey: Guid(15b03c115968efd40b36ed681eefeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_01.fbx using Guid(15b03c115968efd40b36ed681eefeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f42861adbb9e7ca0bc828204111efdd') in 0.016214 seconds 
+  Import took 0.019116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_03.fbx
+  artifactKey: Guid(7a8476a4437909b48aee1f2415638254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_03.fbx using Guid(7a8476a4437909b48aee1f2415638254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9184172eb05c8e8d1620043a9a0bb8fa') in 0.051021 seconds 
+  Import took 0.054386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_10.fbx
+  artifactKey: Guid(0a8c7bddadf62bc408edb38aff31d20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_10.fbx using Guid(0a8c7bddadf62bc408edb38aff31d20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f46b6a1d47aaf54335d495d7a99644') in 0.040600 seconds 
+  Import took 0.043161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_07.fbx
+  artifactKey: Guid(0bf15f4eb7d49344cbde887ffaab1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_07.fbx using Guid(0bf15f4eb7d49344cbde887ffaab1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e5f092317923b89e00e0b9c91e8032') in 0.037754 seconds 
+  Import took 0.040415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_02.fbx
+  artifactKey: Guid(41cdbb1ad8ee3774eb858a4d8121f4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_02.fbx using Guid(41cdbb1ad8ee3774eb858a4d8121f4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d8ce5e5a2ed1a46d746324fc09309c') in 0.035898 seconds 
+  Import took 0.038780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_03.fbx
+  artifactKey: Guid(c61487cb6062a2143bf3f02d40198ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_03.fbx using Guid(c61487cb6062a2143bf3f02d40198ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf2e6ea142f877763e60748c66d74de') in 0.037851 seconds 
+  Import took 0.040768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_02.fbx
+  artifactKey: Guid(d21bb9236265a8847b127f534408fa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_02.fbx using Guid(d21bb9236265a8847b127f534408fa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c512ad9aa174bc19ec25de29aa885c1') in 0.028068 seconds 
+  Import took 0.030906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_04.fbx
+  artifactKey: Guid(663f9e4e964ef2441baaf50b2383550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_04.fbx using Guid(663f9e4e964ef2441baaf50b2383550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a31d6d3cb5b6ff8780b47e92a7d806a') in 0.035158 seconds 
+  Import took 0.039018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_01.fbx
+  artifactKey: Guid(f59877c0369c22548b9971435090e18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_01.fbx using Guid(f59877c0369c22548b9971435090e18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349f9d15986f3764aca4c0946fe4d37b') in 0.039137 seconds 
+  Import took 0.041864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_05.fbx
+  artifactKey: Guid(de35701d74a619744b78fd12c635d858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_05.fbx using Guid(de35701d74a619744b78fd12c635d858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1759ff9b3325fc3a94ab4d532f529f9') in 0.031933 seconds 
+  Import took 0.035152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_05.fbx
+  artifactKey: Guid(625db9ce2cd5df44ebf2a7ca5d57b002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_05.fbx using Guid(625db9ce2cd5df44ebf2a7ca5d57b002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e95f43e7f65024320ca14b3e840a832') in 0.041206 seconds 
+  Import took 0.045025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_04.fbx
+  artifactKey: Guid(eef68e8ca2569a94d8ab65f58b66ba51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_04.fbx using Guid(eef68e8ca2569a94d8ab65f58b66ba51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c235b5bf86ace62e0fbfb1dc7bd0ad4') in 0.020348 seconds 
+  Import took 0.023172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_05.fbx
+  artifactKey: Guid(a0ff289ec69cbe548a635df62316c99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_05.fbx using Guid(a0ff289ec69cbe548a635df62316c99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0fb569cb1b845af1a00f4ca2368858') in 0.056490 seconds 
+  Import took 0.059522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_03.fbx
+  artifactKey: Guid(ff9555a9a87289947bc356e46b318060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_03.fbx using Guid(ff9555a9a87289947bc356e46b318060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cc26adb620aba89809d3d77d91209d') in 0.051145 seconds 
+  Import took 0.054059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_03.fbx
+  artifactKey: Guid(fc1fabed8da780540850d57b9b409111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_03.fbx using Guid(fc1fabed8da780540850d57b9b409111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42cca7b8ba0677b5dd3ca5c47221a4c') in 0.058553 seconds 
+  Import took 0.061908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_05.fbx
+  artifactKey: Guid(188f22e98c3a63b43b3d06ed37cf553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_05.fbx using Guid(188f22e98c3a63b43b3d06ed37cf553c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21e82f3e69e38d8f58819255cdd95c1') in 0.055931 seconds 
+  Import took 0.058576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_DoorFrame.fbx
+  artifactKey: Guid(66175b0938d5add45ab5c42a5091b2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_DoorFrame.fbx using Guid(66175b0938d5add45ab5c42a5091b2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1155a0d848d7a603bf5f5d52707a101') in 0.040351 seconds 
+  Import took 0.043180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_04.fbx
+  artifactKey: Guid(09ffa9cb5c008a0418c936f4ef681c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_04.fbx using Guid(09ffa9cb5c008a0418c936f4ef681c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2996384bba05eda8bafda80305683b6') in 0.048224 seconds 
+  Import took 0.051374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_06.fbx
+  artifactKey: Guid(a160c788737dfa647bd7c8a71fe2559f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_06.fbx using Guid(a160c788737dfa647bd7c8a71fe2559f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3afdd622a6cdd0bd61ed1165d55a260f') in 0.044191 seconds 
+  Import took 0.047737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_01.fbx
+  artifactKey: Guid(3a862a02688bca045b72583ddca07bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Window_01.fbx using Guid(3a862a02688bca045b72583ddca07bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae124dd0db70c0ed9939d7673318ff2') in 0.014763 seconds 
+  Import took 0.018099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_04.fbx
+  artifactKey: Guid(ad81d4c14ff76194489df17b11a78063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_04.fbx using Guid(ad81d4c14ff76194489df17b11a78063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272f8bd5107e9b7e3829c3c16d5e2d45') in 0.045726 seconds 
+  Import took 0.048627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_02.fbx
+  artifactKey: Guid(a63c91f4504eabc45b3a112631aa6e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_02.fbx using Guid(a63c91f4504eabc45b3a112631aa6e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7150fa08dc322bded06b724ef00900') in 0.044662 seconds 
+  Import took 0.047872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_02.fbx
+  artifactKey: Guid(5d431a08be7ef9f409890ba237b04cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_02.fbx using Guid(5d431a08be7ef9f409890ba237b04cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96dfda18ec33eccfc93dee8b5920f514') in 0.048761 seconds 
+  Import took 0.051905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_01.fbx
+  artifactKey: Guid(64d435d24242cd345b97a036fb4916ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_01.fbx using Guid(64d435d24242cd345b97a036fb4916ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a92f50433582c8cbdde2ef5b193ff9a') in 0.014563 seconds 
+  Import took 0.018752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_03.fbx
+  artifactKey: Guid(805034af8456c20488550edda41bd06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Large_Door_03.fbx using Guid(805034af8456c20488550edda41bd06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec294c58ef7573cd5d491c91e7e4bd2c') in 0.043387 seconds 
+  Import took 0.046602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_04.fbx
+  artifactKey: Guid(fa744b523a4ef0a4e803a490a0f2dd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Door_Small_04.fbx using Guid(fa744b523a4ef0a4e803a490a0f2dd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fac0089a17019c3ce037b89c8d9d77') in 0.034871 seconds 
+  Import took 0.038247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_05.fbx
+  artifactKey: Guid(269bdb4a07d37b94e9bff22fa910ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Environment/SI_Env_Wall_Window_05.fbx using Guid(269bdb4a07d37b94e9bff22fa910ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c980b5fd5734f62605c10a73cebab7e') in 0.035470 seconds 
+  Import took 0.038250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.456221 seconds.
+  path: Assets/SimpleShopInteriors/_Materials/New Material.mat
+  artifactKey: Guid(1bea79c5ad882da49aa40fd20ed12d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Materials/New Material.mat using Guid(1bea79c5ad882da49aa40fd20ed12d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee4b01e6ae70c73a44eb11c8d4b668a') in 0.444669 seconds 
+  Import took 0.447590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.839997 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props
+  artifactKey: Guid(cef123eb91e3df6449f4fd944942b20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props using Guid(cef123eb91e3df6449f4fd944942b20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fc7436c6486cad78b999546ba4c4b6') in 0.006736 seconds 
+  Import took 0.010023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077147 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_AlcoholShelf_01.fbx
+  artifactKey: Guid(308c8f223abb4934f80666123b8aeb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_AlcoholShelf_01.fbx using Guid(308c8f223abb4934f80666123b8aeb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9e59ed40c29b6c3ff7d8b1cf25a1b9') in 0.016481 seconds 
+  Import took 0.019269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_01.fbx
+  artifactKey: Guid(110f7d97645c14f498f2a8e14109b17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_01.fbx using Guid(110f7d97645c14f498f2a8e14109b17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db51cb829f26b7d9448fe80641ebc905') in 0.177938 seconds 
+  Import took 0.181178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Briefcase.fbx
+  artifactKey: Guid(386301b2d3984c64fb0e9cc1d065c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Briefcase.fbx using Guid(386301b2d3984c64fb0e9cc1d065c1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2fe48f4310e143dc517e517a880de7') in 0.047951 seconds 
+  Import took 0.050868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Chair_01.fbx
+  artifactKey: Guid(1aa267dc5166ad2429a8cc2f5d960b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Chair_01.fbx using Guid(1aa267dc5166ad2429a8cc2f5d960b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c72f869a0f646455ab12b33a7634b5e') in 0.014949 seconds 
+  Import took 0.018299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_AirHockey.fbx
+  artifactKey: Guid(40f08e1f51f97004d83e200899d9cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_AirHockey.fbx using Guid(40f08e1f51f97004d83e200899d9cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6d69b5c3b0409f4f75f97590783720') in 0.069978 seconds 
+  Import took 0.072874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_01.fbx
+  artifactKey: Guid(68aaca60c51703941bfcdd8f1ce8a877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_01.fbx using Guid(68aaca60c51703941bfcdd8f1ce8a877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38750af65960c065c6357425bc3d136') in 0.064362 seconds 
+  Import took 0.067287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_03.fbx
+  artifactKey: Guid(9d2a42fc04db5654b83c92165a0b2f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_03.fbx using Guid(9d2a42fc04db5654b83c92165a0b2f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726736a95e1faad57a3f8017c84f3928') in 0.053005 seconds 
+  Import took 0.055695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_Stack_02.fbx
+  artifactKey: Guid(f90aae0fe67038548ad1af1fe7797099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_Stack_02.fbx using Guid(f90aae0fe67038548ad1af1fe7797099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7731f6f499830b6321b44ec8532c76') in 0.016764 seconds 
+  Import took 0.020602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_03.fbx
+  artifactKey: Guid(65670159473ada246a4d1b76381178ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_03.fbx using Guid(65670159473ada246a4d1b76381178ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19eedc11c8a46311e2b2551fa9f4612e') in 0.043698 seconds 
+  Import took 0.046673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Hoops.fbx
+  artifactKey: Guid(b4d3104a71ec6cb41953fa34d4e2144f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Hoops.fbx using Guid(b4d3104a71ec6cb41953fa34d4e2144f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48bdf3059e95bb43cb738c4f7aee981') in 0.052894 seconds 
+  Import took 0.056026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_04.fbx
+  artifactKey: Guid(7efb9f114dbede34ea14831e11b71e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_04.fbx using Guid(7efb9f114dbede34ea14831e11b71e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ff02343a3e084c184784d28f85541f') in 0.015252 seconds 
+  Import took 0.018241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_DanceMachine.fbx
+  artifactKey: Guid(673c5e24b70d71942972847b0ecbb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_DanceMachine.fbx using Guid(673c5e24b70d71942972847b0ecbb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b7807a646b0194749e4ed5834156b2') in 0.065180 seconds 
+  Import took 0.068558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleUp_01.fbx
+  artifactKey: Guid(fff9e206bdb1f804b8946b6b130862e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleUp_01.fbx using Guid(fff9e206bdb1f804b8946b6b130862e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6d9f05eea87ffa95278d0e9cdbc9c2') in 0.065939 seconds 
+  Import took 0.068611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Motorbike_02.fbx
+  artifactKey: Guid(93c9a397e680330469c5c3fa5a91fb26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Motorbike_02.fbx using Guid(93c9a397e680330469c5c3fa5a91fb26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef427a01581b05a48a75afe5b4e516c') in 0.076396 seconds 
+  Import took 0.079088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_02.fbx
+  artifactKey: Guid(424cec6e453bcee4facf4d016f525fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_02.fbx using Guid(424cec6e453bcee4facf4d016f525fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9125908ac0a7270ea9d68df97384ca44') in 0.061668 seconds 
+  Import took 0.064571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleDown_01.fbx
+  artifactKey: Guid(861ef637d3983514c9cf2c4d3535ac67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleDown_01.fbx using Guid(861ef637d3983514c9cf2c4d3535ac67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9729d88874a57ea192183dc668a45a') in 0.035244 seconds 
+  Import took 0.038055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_01.fbx
+  artifactKey: Guid(0a4218611aa63be4cb68dcf6be35f526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_01.fbx using Guid(0a4218611aa63be4cb68dcf6be35f526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a1c67484e71710fc0b4020d6729c45') in 0.035698 seconds 
+  Import took 0.038860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_AlcoholShelf_02.fbx
+  artifactKey: Guid(82b23d156112d7a409c6ba75ae7be266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_AlcoholShelf_02.fbx using Guid(82b23d156112d7a409c6ba75ae7be266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8790481f6dc7e47ff5d884f733f0b22') in 0.016741 seconds 
+  Import took 0.019727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_Stack_01.fbx
+  artifactKey: Guid(ddeb0eb98f19c7f449b1906548ddc152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_Stack_01.fbx using Guid(ddeb0eb98f19c7f449b1906548ddc152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7705e199ad1b3e17c8ce19cfdd6c46') in 0.018682 seconds 
+  Import took 0.022377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_SkeeballMachine_01.fbx
+  artifactKey: Guid(19d2c583c94dffd438d07441de4702f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_SkeeballMachine_01.fbx using Guid(19d2c583c94dffd438d07441de4702f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5288d3d6bf1ae125d5dd4947c91329dc') in 0.036135 seconds 
+  Import took 0.039475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bar_01.fbx
+  artifactKey: Guid(80c9e8349e6c7ee4c9ea543c9cf9967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bar_01.fbx using Guid(80c9e8349e6c7ee4c9ea543c9cf9967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d51e136e5394ea6e6e211d772725c5') in 0.058746 seconds 
+  Import took 0.062052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleUp_02.fbx
+  artifactKey: Guid(0d0000e5156e8904bba8b24fc845707b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleUp_02.fbx using Guid(0d0000e5156e8904bba8b24fc845707b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4be9ad036f6ffd201fd996f72d38f4c') in 0.046596 seconds 
+  Import took 0.049324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CD_Holder.fbx
+  artifactKey: Guid(9cc2d4a069964814aa49125d8bc6f6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CD_Holder.fbx using Guid(9cc2d4a069964814aa49125d8bc6f6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a385970e47e2a746aed3a2121176e23') in 0.066053 seconds 
+  Import took 0.068818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_02.fbx
+  artifactKey: Guid(0a8800e2b30ff83439e146762a315616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_02.fbx using Guid(0a8800e2b30ff83439e146762a315616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c783e20ca82a460438eb9dac534b1b6b') in 0.060712 seconds 
+  Import took 0.063267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Pinball.fbx
+  artifactKey: Guid(7e3e27ba113c2b54888f1d84830e50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Pinball.fbx using Guid(7e3e27ba113c2b54888f1d84830e50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fc012630ddb329e8a293f3263e0566') in 0.055091 seconds 
+  Import took 0.057777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CardScanner_01.fbx
+  artifactKey: Guid(5c434e2e259899845861d5baf0f4d662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CardScanner_01.fbx using Guid(5c434e2e259899845861d5baf0f4d662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de52936bea077b1fb91e144ec3750c38') in 0.058585 seconds 
+  Import took 0.061398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Motorbike_01.fbx
+  artifactKey: Guid(5b3c6787a02c86c4e87cf934cee45d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_Motorbike_01.fbx using Guid(5b3c6787a02c86c4e87cf934cee45d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b659d5abceb196d685516de01543ae9') in 0.053385 seconds 
+  Import took 0.056023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_05.fbx
+  artifactKey: Guid(df42f4f81ba1c074dbc41b28790ed601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_05.fbx using Guid(df42f4f81ba1c074dbc41b28790ed601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443171ca5875888a525c6d9629a3d247') in 0.085692 seconds 
+  Import took 0.088334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_GumballMachine.fbx
+  artifactKey: Guid(3454ab16cc6b2cf4ea46da9cc83ae40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_GumballMachine.fbx using Guid(3454ab16cc6b2cf4ea46da9cc83ae40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede5ee275cff6d5484de0bbb2dae436a') in 0.071657 seconds 
+  Import took 0.074324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Cabinet_01.fbx
+  artifactKey: Guid(79bd20cc4274f2545b5f669c2d2e5fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Cabinet_01.fbx using Guid(79bd20cc4274f2545b5f669c2d2e5fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab783b2fa4d77b2699f19458469a9a60') in 0.038815 seconds 
+  Import took 0.041517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_01.fbx
+  artifactKey: Guid(277c97dbad662f746bc126ad19dfba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ButcherCounter_01.fbx using Guid(277c97dbad662f746bc126ad19dfba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32aa48f36ede080418bc5fc3c0f02df8') in 0.017460 seconds 
+  Import took 0.020732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_06.fbx
+  artifactKey: Guid(131177cc726bd054b97bff56cbf72df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_06.fbx using Guid(131177cc726bd054b97bff56cbf72df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf724ca3b2592a5ec503f35c769e1de0') in 0.034649 seconds 
+  Import took 0.038228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CD_Case.fbx
+  artifactKey: Guid(1e967a7eaef28984eadc1b99c4cbe9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CD_Case.fbx using Guid(1e967a7eaef28984eadc1b99c4cbe9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a1b2cd90a9c2fd5265e240c1240aa8') in 0.053583 seconds 
+  Import took 0.056382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleDown_02.fbx
+  artifactKey: Guid(948c76ee9e1db1b45991434a5fb5e8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Basket_HandleDown_02.fbx using Guid(948c76ee9e1db1b45991434a5fb5e8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf62445037f34f948f86ad76e160cde4') in 0.013677 seconds 
+  Import took 0.016606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarRide.fbx
+  artifactKey: Guid(1acf1eda54edf1a4c9c130e8a200de07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarRide.fbx using Guid(1acf1eda54edf1a4c9c130e8a200de07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aaf8f362d3b1ddeae76913f07bb619') in 0.074246 seconds 
+  Import took 0.077740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_01.fbx
+  artifactKey: Guid(4022e554a2380f744bead8bdc6714b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_01.fbx using Guid(4022e554a2380f744bead8bdc6714b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c1cdc91af381be8ca1905bd046648a') in 0.070887 seconds 
+  Import took 0.074015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_03.fbx
+  artifactKey: Guid(a536d0201c773324f8bf58c58c539f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_03.fbx using Guid(a536d0201c773324f8bf58c58c539f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534cb1fff0e36fcef124d0dcf27f473f') in 0.050334 seconds 
+  Import took 0.053016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_03.fbx
+  artifactKey: Guid(40625be4a6563894e899529543e41ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_03.fbx using Guid(40625be4a6563894e899529543e41ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b62a208ddf1e77168479aa8fbaabbc7') in 0.073895 seconds 
+  Import took 0.077340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_02.fbx
+  artifactKey: Guid(0fd313110f8f8f848913f90741012923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_02.fbx using Guid(0fd313110f8f8f848913f90741012923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826caf82d77453ac647cffe2d6e993f6') in 0.086346 seconds 
+  Import took 0.089071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ATM_01.fbx
+  artifactKey: Guid(49ec5253bea63c4428fc0d2a13fc7d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ATM_01.fbx using Guid(49ec5253bea63c4428fc0d2a13fc7d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5495bee6197b655d6f15a7b1c48396') in 0.020390 seconds 
+  Import took 0.023189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_02.fbx
+  artifactKey: Guid(7252d3de36035f044b563cedefb2b8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_ClawMachine_02.fbx using Guid(7252d3de36035f044b563cedefb2b8ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19028b13e74d9ec47ef3f46c51d63783') in 0.070851 seconds 
+  Import took 0.073621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_03.fbx
+  artifactKey: Guid(5537751726f6a5d4c9977ee9ca119a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_CarboardBox_03.fbx using Guid(5537751726f6a5d4c9977ee9ca119a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651b300d3badf72e67eabfc2443fdc88') in 0.074502 seconds 
+  Import took 0.077088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_SkeeballMachine_02.fbx
+  artifactKey: Guid(501115b9051d3984fa9c4b6b411fdecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Arcade_SkeeballMachine_02.fbx using Guid(501115b9051d3984fa9c4b6b411fdecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63c1b2cc8a8147f872f879a8fe8309e') in 0.075576 seconds 
+  Import took 0.078291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_04.fbx
+  artifactKey: Guid(3022dc7430525d7478696c6a905e33d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_ArcadeMachine_04.fbx using Guid(3022dc7430525d7478696c6a905e33d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062e92f4f0b896ce8289f8159963c55f') in 0.073753 seconds 
+  Import took 0.125321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_02.fbx
+  artifactKey: Guid(e02deffc75b01ee4e95a123fdff2c1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleShopInteriors/_Models/Props/SI_Prop_Bench_02.fbx using Guid(e02deffc75b01ee4e95a123fdff2c1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dd8e6dd919d5e952766e846e9d1f9a') in 0.081259 seconds 
+  Import took 0.083738 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003343 seconds.
+Registered in 0.003306 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.039 seconds
+- Completed reload, in  0.969 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.0 MB.
-System memory in use after: 72.1 MB.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.0 MB.
+System memory in use after: 73.1 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1961.
-Total: 1.981400 ms (FindLiveObjects: 0.182000 ms CreateObjectMapping: 0.062800 ms MarkObjects: 1.710900 ms  DeleteObjects: 0.024600 ms)
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 1961.
+Total: 2.175300 ms (FindLiveObjects: 0.162000 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.937800 ms  DeleteObjects: 0.026000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -258,13 +2313,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 958.083270 seconds.
-  path: Assets/Scripts/PlayerScripts/PlayerMovement.cs
-  artifactKey: Guid(6d00de6e3ac1a0f4ca89b8a8e6344c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerScripts/PlayerMovement.cs using Guid(6d00de6e3ac1a0f4ca89b8a8e6344c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29b04626788155b176453f0b07dec85') in 0.006960 seconds 
-  Import took 0.011492 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
